@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix CUÑA IA – Radio Studio",
+  "description": "Estudio profesional de producción de cuñas y guiones radiales con inteligencia artificial para Radio Me Gusta — Radio Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
